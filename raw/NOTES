@@ -1,0 +1,10 @@
+* master-clean.csv contains Mervi's finalised borrowing information.  The
+  contents of the borr_source and borr_qual columns in this table need to be
+  merged into those in Data.tsv.
+* Linking of rows between master-clean.tsv and Data.tsv should be safe if
+  `mng_item`, `lgid3` and `item` match.
+* Unfortunately, master-clean.tsv was exported as non-UTF-8 and the contents of
+  `item` are semi-scrambled.
+* master-fixedtest.tsv is a UTF-8 export with non-scrambled `item`, but of an
+  earlier version of what would become master-clean.tsv, so its `item` column
+  cannot simply be directly overlaid over master-clean.tsv
