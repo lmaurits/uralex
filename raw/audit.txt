@@ -1,0 +1,822 @@
+For language 401, meaning 3, item "kajem" is now identified as a borrowing from "Volga Bulgar Turkic".
+For language 107, meaning 9, item "vuẹʹddes, vuäʹdˈd" is now identified as a borrowing from "Indo-Iranian".
+For language 108, meaning 9, item "vuen’tes’" is now identified as a borrowing from "Indo-Iranian".
+For language 301, meaning 9, item "undoks" is now identified as a borrowing from "Indo-Iranian".
+For language 301, meaning 11, item "sams" is now identified as a borrowing from "Indo-Iranian".
+For language 401, meaning 12, item "oŋ" is now identified as a borrowing from "Chuvash".
+For language 0, meaning 13, item "*śaδa-", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 101, meaning 13, item "ebrie", the borrowing source changed from Indo-Ir to North-Western-Indo-European.
+For language 105, meaning 13, item "arvi", the borrowing source changed from Indo-Ir to North-Western-Indo-European.
+For language 106, meaning 13, item "arve", the borrowing source changed from Indo-Ir to North-Western-Indo-European.
+For language 107, meaning 13, item "âʹbrr", the borrowing source changed from Indo-Ir to North-Western-Indo-European.
+For language 108, meaning 13, item "ābb’r", the borrowing source changed from Indo-Ir to North-Western-Indo-European.
+For language 203, meaning 13, item "sade, sataa", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 204, meaning 13, item "saje(h)", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 207, meaning 13, item "sadada", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 208, meaning 13, item "sae", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 210, meaning 13, item "sadada", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 212, meaning 13, item "saʾd, saʾddə", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 902, meaning 13, item "saryo", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 501, meaning 17, item "bord" is now identified as a borrowing from "Indo-Iranian".
+For language 503, meaning 17, item "bord" is now identified as a borrowing from "Indo-Iranian".
+For language 504, meaning 17, item "burd" is now identified as a borrowing from "Indo-Iranian".
+For language 601, meaning 17, item "szárny" is now identified as a borrowing from "Volga Bulgar Turkic".
+For language 601, meaning 18, item "hús" is now identified as a borrowing from "Iranian".
+For language 501, meaning 25, item "kerni̮" is now identified as a borrowing from "Iranian".
+For language 503, meaning 25, item "kerni̮" is now identified as a borrowing from "Iranian".
+For language 504, meaning 25, item "kari̮ni̮" is now identified as a borrowing from "Iranian".
+For language 601, meaning 25, item "tesz" is now identified as a borrowing from "Proto-Indo-European".
+For language 701, meaning 25, item "wāri" is now identified as a borrowing from "Iranian".
+For language 807, meaning 25, item "wer-" is now identified as a borrowing from "Iranian".
+For language 203, meaning 26, item "talo" is now identified as a borrowing from "Indo-European".
+For language 204, meaning 26, item "talo ~ taloi" is now identified as a borrowing from "Indo-European".
+For language 208, meaning 26, item "hōne" is now identified as a borrowing from "Baltic".
+For language 208, meaning 26, item "taloi" is now identified as a borrowing from "Indo-European".
+For language 209, meaning 26, item "taлo" is now identified as a borrowing from "Indo-European".
+For language 210, meaning 26, item "maja" is now identified as a borrowing from "North-Western-Indo-European".
+For language 211, meaning 26, item "maja" is now identified as a borrowing from "North-Western-Indo-European".
+For language 208, meaning 29, item "verkkā" is now identified as a borrowing from "Finnish".
+For language 212, meaning 29, item "kīttə" is now identified as a borrowing from "Baltic".
+For language 301, meaning 29, item "meŕems" is now identified as a borrowing from "Russian".
+For language 501, meaning 29, item "šuni̮" is now identified as a borrowing from "North-Western-Indo-European".
+For language 503, meaning 29, item "šuni̮" is now identified as a borrowing from "North-Western-Indo-European".
+For language 504, meaning 29, item "šui̮ni̮" is now identified as a borrowing from "North-Western-Indo-European".
+For language 807, meaning 29, item "at-" is now identified as a borrowing from "Tungusic".
+For language 203, meaning 31, item "hius" is now identified as a borrowing from "Germanic".
+For language 204, meaning 31, item "hivus" is now identified as a borrowing from "Germanic".
+For language 207, meaning 31, item "hibus" is now identified as a borrowing from "Germanic".
+For language 208, meaning 31, item "hiuz" is now identified as a borrowing from "Germanic".
+For language 209, meaning 31, item "ivuᴢ" is now identified as a borrowing from "Germanic".
+For language 210, meaning 31, item "juus" is now identified as a borrowing from "Germanic".
+For language 211, meaning 31, item "hius" is now identified as a borrowing from "Germanic".
+For language 212, meaning 31, item "ibùks" is now identified as a borrowing from "Germanic".
+For language 501, meaning 31, item "ge̮n" is now identified as a borrowing from "Iranian".
+For language 503, meaning 31, item "ge̮n" is now identified as a borrowing from "Iranian".
+For language 504, meaning 31, item "gon" is now identified as a borrowing from "Iranian".
+For language 108, meaning 32, item "šūrr", the borrowing source changed from Fin to Karelian.
+For language 504, meaning 32, item "baʒ́ʒ́i̮m" is now identified as a borrowing from "Iranian".
+For language 212, meaning 36, item "raʾbbə" is now identified as a borrowing from "Germanic".
+For language 504, meaning 37, item "pi̮d" is now identified as a borrowing from "Iranian".
+For language 504, meaning 38, item "pi̮d" is now identified as a borrowing from "Iranian".
+For language 203, meaning 43, item "musta" is now identified as a borrowing from "Germanic".
+For language 204, meaning 43, item "musta" is now identified as a borrowing from "Germanic".
+For language 207, meaning 43, item "must" is now identified as a borrowing from "Germanic".
+For language 208, meaning 43, item "musta" is now identified as a borrowing from "Germanic".
+For language 209, meaning 43, item "mus̄" is now identified as a borrowing from "Germanic".
+For language 210, meaning 43, item "must" is now identified as a borrowing from "Germanic".
+For language 211, meaning 43, item "must" is now identified as a borrowing from "Germanic".
+For language 212, meaning 43, item "muštà ~ mustà" is now identified as a borrowing from "Germanic".
+For language 203, meaning 45, item "napa", the borrowing source changed from Indo-Eur to Germanic_or_Baltic.
+For language 204, meaning 45, item "napa", the borrowing source changed from Indo-Eur to Germanic_or_Baltic.
+For language 207, meaning 45, item "naba", the borrowing source changed from Indo-Eur to Germanic_or_Baltic.
+For language 208, meaning 45, item "naʙa", the borrowing source changed from Indo-Eur to Germanic_or_Baltic.
+For language 209, meaning 45, item "napa", the borrowing source changed from Indo-Eur to Germanic_or_Baltic.
+For language 210, meaning 45, item "naba", the borrowing source changed from Indo-Eur to Germanic_or_Baltic.
+For language 211, meaning 45, item "naba", the borrowing source changed from Indo-Eur to Germanic_or_Baltic.
+For language 212, meaning 45, item "nabà", the borrowing source changed from Indo-Eur to Germanic_or_Baltic.
+For language 401, meaning 45, item "kə̑lə̑mde" is now identified as a borrowing from "Tatar".
+For language 203, meaning 49, item "tuuli" is now identified as a borrowing from "Proto-Indo-European".
+For language 204, meaning 49, item "tuuli" is now identified as a borrowing from "Proto-Indo-European".
+For language 208, meaning 49, item "tūli" is now identified as a borrowing from "Proto-Indo-European".
+For language 209, meaning 49, item "tūli" is now identified as a borrowing from "Proto-Indo-European".
+For language 210, meaning 49, item "tuul" is now identified as a borrowing from "Proto-Indo-European".
+For language 211, meaning 49, item "tuul'" is now identified as a borrowing from "Proto-Indo-European".
+For language 212, meaning 49, item "tūlʹ" is now identified as a borrowing from "Proto-Indo-European".
+For language 501, meaning 49, item "te̮v" is now identified as a borrowing from "Proto-Indo-European".
+For language 503, meaning 49, item "te̮v" is now identified as a borrowing from "Proto-Indo-European".
+For language 504, meaning 49, item "te̮l" is now identified as a borrowing from "Proto-Indo-European".
+For language 601, meaning 49, item "szél" is now identified as a borrowing from "West Old Turkic".
+For language 701, meaning 49, item "wōt" is now identified as a borrowing from "Iranian".
+For language 807, meaning 49, item "wat" is now identified as a borrowing from "Iranian".
+For language 101, meaning 50, item "soeve" is now identified as a borrowing from "Germanic".
+For language 102, meaning 50, item "suavva" is now identified as a borrowing from "Germanic".
+For language 104, meaning 50, item "suovva" is now identified as a borrowing from "Germanic".
+For language 105, meaning 50, item "suovva" is now identified as a borrowing from "Germanic".
+For language 106, meaning 50, item "suova" is now identified as a borrowing from "Germanic".
+For language 107, meaning 50, item "suõvv" is now identified as a borrowing from "Germanic".
+For language 108, meaning 50, item "sūvv" is now identified as a borrowing from "Germanic".
+For language 203, meaning 50, item "savu" is now identified as a borrowing from "Germanic".
+For language 204, meaning 50, item "savu" is now identified as a borrowing from "Germanic".
+For language 207, meaning 50, item "savu" is now identified as a borrowing from "Germanic".
+For language 208, meaning 50, item "savvu" is now identified as a borrowing from "Germanic".
+For language 209, meaning 50, item "savvu" is now identified as a borrowing from "Germanic".
+For language 212, meaning 50, item "soʾu" is now identified as a borrowing from "Germanic".
+For language 907, meaning 50, item "purqə" is now identified as a borrowing from "Khanty".
+For language 601, meaning 52, item "gyerek ~ gyermek" is now identified as a borrowing from "West Old Turkic".
+For language 301, meaning 53, item "al" is now identified as a borrowing from "Baltic".
+For language 501, meaning 53, item "kolʹk" is now identified as a borrowing from "Finnic".
+For language 503, meaning 53, item "kolʹtʹ" is now identified as a borrowing from "Finnic".
+For language 601, meaning 53, item "tojás" is now identified as a borrowing from "West Old Turkic".
+For language 301, meaning 55, item "maksoms" is now identified as a borrowing from "Iranian".
+For language 504, meaning 57, item "umoj" is now identified as a borrowing from "Tatar".
+For language 601, meaning 60, item "térd" is now identified as a borrowing from "West Old Turkic".
+For language 207, meaning 61, item "lʹete" is now identified as a borrowing from "Finnic".
+For language 601, meaning 61, item "homok" is now identified as a borrowing from "West Old Turkic".
+For language 0, meaning 64, item "*maɣi̮", the borrowing source changed from Indo-Ir          possible to Indo-Iranian.
+For language 301, meaning 64, item "moda" is now identified as a borrowing from "Germanic".
+For language 301, meaning 65, item "kerš" is now identified as a borrowing from "Baltic".
+For language 204, meaning 66, item "ruskie" is now identified as a borrowing from "Germanic".
+For language 207, meaning 66, item "rusked" is now identified as a borrowing from "Germanic".
+For language 204, meaning 68, item "peitteä" is now identified as a borrowing from "Germanic".
+For language 207, meaning 68, item "pītta" is now identified as a borrowing from "Germanic".
+For language 208, meaning 68, item "peittǟ" is now identified as a borrowing from "Germanic".
+For language 210, meaning 68, item "ära peita" is now identified as a borrowing from "Germanic".
+For language 204, meaning 69, item "hipie" is now identified as a borrowing from "Germanic".
+For language 207, meaning 69, item "hibi" is now identified as a borrowing from "Germanic".
+For language 208, meaning 69, item "hibjä" is now identified as a borrowing from "Germanic".
+For language 301, meaning 69, item "kedʹ" is now identified as a borrowing from "Finnic".
+For language 203, meaning 72, item "muurahainen" is now identified as a borrowing from "Germanic".
+For language 204, meaning 72, item "muurahaine" is now identified as a borrowing from "Germanic".
+For language 207, meaning 72, item "murhāńe" is now identified as a borrowing from "Germanic".
+For language 208, meaning 72, item "mūrahain" is now identified as a borrowing from "Germanic".
+For language 501, meaning 73, item "śe̮ki̮d" is now identified as a borrowing from "Volga Bulgar Turkic".
+For language 503, meaning 73, item "śe̮ki̮t" is now identified as a borrowing from "Volga Bulgar Turkic".
+For language 504, meaning 73, item "śeki̮t" is now identified as a borrowing from "Volga Bulgar Turkic".
+For language 301, meaning 74, item "sajems" is now identified as a borrowing from "Indo-Iranian".
+For language 301, meaning 75, item "siŕe" is now identified as a borrowing from "Proto-Iranian".
+For language 401, meaning 75, item "šoŋɣo" is now identified as a borrowing from "Indo-Iranian".
+For language 501, meaning 75, item "pe̮ri̮ś", the borrowing source changed from PFP / Indo-Iranian to Indo-Iranian.
+For language 501, meaning 75, item "važ", the borrowing source changed from Finnic / PFP  / Ger? to Finnic.
+For language 503, meaning 75, item "pe̮riś", the borrowing source changed from PFP / Indo-Iranian to Indo-Iranian.
+For language 503, meaning 75, item "važ", the borrowing source changed from Finnic / PFP  / Ger? to Finnic.
+For language 504, meaning 75, item "pereś" is now identified as a borrowing from "Indo-Iranian".
+For language 504, meaning 75, item "vuž", the borrowing source changed from Finnic / PFP  / Ger? to Finnic.
+For language 601, meaning 75, item "öreg" is now identified as a borrowing from "West Old Turkic".
+For language 203, meaning 76, item "syödä" is now identified as a borrowing from "Iranian".
+For language 204, meaning 76, item "syyvä" is now identified as a borrowing from "Iranian".
+For language 207, meaning 76, item "śödä" is now identified as a borrowing from "Iranian".
+For language 208, meaning 76, item "sȫv̆vä" is now identified as a borrowing from "Iranian".
+For language 209, meaning 76, item "sǖmä" is now identified as a borrowing from "Iranian".
+For language 210, meaning 76, item "süüa" is now identified as a borrowing from "Iranian".
+For language 211, meaning 76, item "süümä" is now identified as a borrowing from "Iranian".
+For language 212, meaning 76, item "sìedə" is now identified as a borrowing from "Iranian".
+For language 301, meaning 76, item "sevems" is now identified as a borrowing from "Iranian".
+For language 501, meaning 76, item "śojni̮" is now identified as a borrowing from "Iranian".
+For language 503, meaning 76, item "śojni̮" is now identified as a borrowing from "Iranian".
+For language 504, meaning 76, item "śii̮ni̮" is now identified as a borrowing from "Iranian".
+For language 203, meaning 77, item "paksu" is now identified as a borrowing from "Iranian".
+For language 204, meaning 77, item "paksu" is now identified as a borrowing from "Iranian".
+For language 208, meaning 77, item "paksu" is now identified as a borrowing from "Iranian".
+For language 209, meaning 77, item "paksu" is now identified as a borrowing from "Iranian".
+For language 210, meaning 77, item "paks" is now identified as a borrowing from "Iranian".
+For language 211, meaning 77, item "paks" is now identified as a borrowing from "Iranian".
+For language 211, meaning 78, item "rag'a ~ ragja" is now identified as a borrowing from "Germanic".
+For language 212, meaning 78, item "raigà" is now identified as a borrowing from "Germanic".
+For language 301, meaning 81, item "čuvto" is now identified as a borrowing from "Iranian".
+For language 212, meaning 82, item "saʾddə" is now identified as a borrowing from "Indo-European".
+For language 301, meaning 86, item "kiska" is now identified as a borrowing from "Russian".
+For language 902, meaning 86, item "wenyeko ~ wenyako" is now identified as a borrowing from "Pre-Tocharian".
+For language 907, meaning 86, item "ke̮naŋ" is now identified as a borrowing from "Pre-Tocharian".
+For language 210, meaning 87, item "saba" is now identified as a borrowing from "Baltic".
+For language 102, meaning 89, item "tjadˈnat" is now identified as a borrowing from "Indo-Iranian_or_Indo-European".
+For language 104, meaning 89, item "tjadnat" is now identified as a borrowing from "Indo-Iranian_or_Indo-European".
+For language 105, meaning 89, item "čatnat" is now identified as a borrowing from "Indo-Iranian_or_Indo-European".
+For language 106, meaning 89, item "čoonnađ" is now identified as a borrowing from "Indo-Iranian_or_Indo-European".
+For language 107, meaning 89, item "čõõnnâd" is now identified as a borrowing from "Indo-Iranian_or_Indo-European".
+For language 203, meaning 89, item "sitoa" is now identified as a borrowing from "Indo-Iranian_or_Indo-European".
+For language 204, meaning 89, item "situo" is now identified as a borrowing from "Indo-Iranian_or_Indo-European".
+For language 207, meaning 89, item "sidoda" is now identified as a borrowing from "Indo-Iranian_or_Indo-European".
+For language 208, meaning 89, item "sit̆tōa" is now identified as a borrowing from "Indo-Iranian_or_Indo-European".
+For language 209, meaning 89, item "sitoma" is now identified as a borrowing from "Indo-Iranian_or_Indo-European".
+For language 210, meaning 89, item "siduda" is now identified as a borrowing from "Indo-Iranian_or_Indo-European".
+For language 212, meaning 89, item "siʾddə" is now identified as a borrowing from "Indo-Iranian".
+For language 301, meaning 89, item "sodoms" is now identified as a borrowing from "Indo-Iranian".
+For language 401, meaning 89, item "piδam" is now identified as a borrowing from "Indo-Iranian_or_Iranian".
+For language 504, meaning 89, item "dumi̮ni̮" is now identified as a borrowing from "Indo-Iranian".
+For language 401, meaning 92, item "kajə̑k", the borrowing source changed from Chuvash to Volga Bulgar Turkic.
+For language 401, meaning 94, item "šińčal", the borrowing source changed from Iranic to Indo-European.
+For language 601, meaning 94, item "só" is now identified as a borrowing from "Indo-European".
+For language 907, meaning 94, item "śāq", the borrowing source changed from Iranic to Iranian.
+For language 401, meaning 95, item "ümə̑l" is now identified as a borrowing from "Chuvash".
+For language 210, meaning 96, item "väike" is now identified as a borrowing from "Germanic".
+For language 212, meaning 96, item "vǟʾkki" is now identified as a borrowing from "Germanic".
+For language 203, meaning 97, item "leveä" is now identified as a borrowing from "Germanic".
+For language 204, meaning 97, item "levie" is now identified as a borrowing from "Germanic".
+For language 207, meaning 97, item "leved" is now identified as a borrowing from "Germanic".
+For language 209, meaning 97, item "лad̄ʹ" is now identified as a borrowing from "Germanic_or_Scandinavian".
+For language 210, meaning 97, item "lai" is now identified as a borrowing from "Germanic_or_Scandinavian".
+For language 211, meaning 97, item "lag'a ~ lagja" is now identified as a borrowing from "Germanic_or_Scandinavian".
+For language 212, meaning 97, item "laigà" is now identified as a borrowing from "Germanic_or_Scandinavian".
+For language 401, meaning 101, item "laštə̑rtem, laštə̑rɣem" is now identified as a borrowing from "Chuvash".
+For language 601, meaning 101, item "darál" is now identified as a borrowing from "Cumanian Turkic".
+For language 601, meaning 101, item "őröl" is now identified as a borrowing from "Volga Bulgar Turkic".
+For language 501, meaning 102, item "stav, stave̮n" is now identified as a borrowing from "Russian".
+For language 107, meaning 103, item "di ~ da etc.", the borrowing source changed from Rus to Finnic.
+For language 108, meaning 103, item "a" is now identified as a borrowing from "Russian".
+For language 503, meaning 105, item "saji̮n" is now identified as a borrowing from "Iranian".
+For language 101, meaning 106, item "madtan" is now identified as a borrowing from "Scandinavian".
+For language 208, meaning 106, item "paha" is now identified as a borrowing from "Germanic".
+For language 209, meaning 106, item "paha" is now identified as a borrowing from "Germanic".
+For language 210, meaning 106, item "halb" is now identified as a borrowing from "Germanic".
+For language 211, meaning 106, item "halv" is now identified as a borrowing from "Germanic".
+For language 301, meaning 106, item "beŕań" is now identified as a borrowing from "Tatar".
+For language 504, meaning 106, item "urod" is now identified as a borrowing from "Russian".
+For language 601, meaning 108, item "gyomor" is now identified as a borrowing from "West Old Turkic".
+For language 807, meaning 108, item "ont" is now identified as a borrowing from "Iranian".
+For language 401, meaning 109, item "saska" is now identified as a borrowing from "Chuvash".
+For language 501, meaning 109, item "tuś" is now identified as a borrowing from "Volga Bulgar Turkic".
+For language 601, meaning 111, item "gyerek ~ gyermek" is now identified as a borrowing from "West Old Turkic".
+For language 101, meaning 112, item "guehpere" is now identified as a borrowing from "Germanic".
+For language 601, meaning 115, item "számol" is now identified as a borrowing from "West Old Turkic".
+For language 401, meaning 119, item "korem" is now identified as a borrowing from "Indo_Iranian_or_Iranian".
+For language 807, meaning 119, item "ki̮ṇ-" is now identified as a borrowing from "Iranian".
+For language 401, meaning 120, item "kukšo" is now identified as a borrowing from "Permic".
+For language 105, meaning 121, item "gavja" is now identified as a borrowing from "Germanic".
+For language 106, meaning 121, item "kovja" is now identified as a borrowing from "Germanic".
+For language 203, meaning 121, item "pöly" is now identified as a borrowing from "Baltic".
+For language 204, meaning 121, item "pöly" is now identified as a borrowing from "Baltic".
+For language 207, meaning 121, item "pölü" is now identified as a borrowing from "Baltic".
+For language 208, meaning 121, item "pöllü" is now identified as a borrowing from "Baltic".
+For language 209, meaning 121, item "pöllü" is now identified as a borrowing from "Baltic".
+For language 209, meaning 121, item "toлmu" is now identified as a borrowing from "Baltic".
+For language 210, meaning 121, item "tolm" is now identified as a borrowing from "Baltic".
+For language 211, meaning 121, item "tolm" is now identified as a borrowing from "Baltic".
+For language 212, meaning 121, item "tellm ~ töllm" is now identified as a borrowing from "Baltic".
+For language 501, meaning 121, item "bus" is now identified as a borrowing from "Russian".
+For language 503, meaning 121, item "bus" is now identified as a borrowing from "Russian".
+For language 504, meaning 121, item "tuzon" is now identified as a borrowing from "Tatar".
+For language 101, meaning 124, item "bïlledh" is now identified as a borrowing from "Proto-Indo-European".
+For language 102, meaning 124, item "ballat" is now identified as a borrowing from "Proto-Indo-European".
+For language 104, meaning 124, item "ballo" is now identified as a borrowing from "Proto-Indo-European".
+For language 105, meaning 124, item "ballat" is now identified as a borrowing from "Proto-Indo-European".
+For language 106, meaning 124, item "poollađ" is now identified as a borrowing from "Proto-Indo-European".
+For language 107, meaning 124, item "põõllâd" is now identified as a borrowing from "Proto-Indo-European".
+For language 108, meaning 124, item "pēlle" is now identified as a borrowing from "Proto-Indo-European".
+For language 203, meaning 124, item "pelätä" is now identified as a borrowing from "Proto-Indo-European".
+For language 204, meaning 124, item "varata" is now identified as a borrowing from "Germanic".
+For language 207, meaning 124, item "varaita" is now identified as a borrowing from "Germanic".
+For language 208, meaning 124, item "pöläᴅä" is now identified as a borrowing from "Germanic".
+For language 209, meaning 124, item "peltšämä" is now identified as a borrowing from "Proto-Indo-European".
+For language 211, meaning 124, item "pelgämä" is now identified as a borrowing from "Proto-Indo-European".
+For language 301, meaning 124, item "pelʹems" is now identified as a borrowing from "Proto-Indo-European".
+For language 501, meaning 124, item "povni̮" is now identified as a borrowing from "Proto-Indo-European".
+For language 503, meaning 124, item "povni̮" is now identified as a borrowing from "Proto-Indo-European".
+For language 504, meaning 124, item "kurdani̮" is now identified as a borrowing from "Tatar".
+For language 601, meaning 124, item "fél" is now identified as a borrowing from "Proto-Indo-European".
+For language 701, meaning 124, item "pili" is now identified as a borrowing from "Proto-Indo-European".
+For language 807, meaning 124, item "pǝl-, pǝlil-" is now identified as a borrowing from "Proto-Indo-European".
+For language 501, meaning 125, item "ge̮n" is now identified as a borrowing from "Iranian".
+For language 503, meaning 125, item "ge̮n" is now identified as a borrowing from "Iranian".
+For language 101, meaning 126, item "gille" is now identified as a borrowing from "Scandinavian".
+For language 102, meaning 126, item "gille" is now identified as a borrowing from "Scandinavian".
+For language 101, meaning 130, item "galkedh" is now identified as a borrowing from "Proto-Indo-European".
+For language 102, meaning 130, item "gålˈgat" is now identified as a borrowing from "Proto-Indo-European".
+For language 104, meaning 130, item "gållgåt" is now identified as a borrowing from "Proto-Indo-European".
+For language 105, meaning 130, item "golgat" is now identified as a borrowing from "Proto-Indo-European".
+For language 106, meaning 130, item "kulgađ" is now identified as a borrowing from "Proto-Indo-European".
+For language 107, meaning 130, item "kolggâd" is now identified as a borrowing from "Proto-Indo-European".
+For language 108, meaning 130, item "kōllke" is now identified as a borrowing from "Proto-Indo-European".
+For language 212, meaning 131, item "ēdrəm" is now identified as a borrowing from "Baltic".
+For language 301, meaning 131, item "ćeća", the borrowing source changed from Chuvash to Turkic.
+For language 504, meaning 131, item "śaśka", the borrowing source changed from Chuvash to Volga Bulgar Turkic.
+For language 504, meaning 133, item "bus", the borrowing source changed from Chuvash to Volga Bulgar Turkic.
+For language 101, meaning 136, item "dïeves" is now identified as a borrowing from "Germanic_or_Finnic".
+For language 102, meaning 136, item "diävas" is now identified as a borrowing from "Germanic_or_Finnic".
+For language 104, meaning 136, item "devas ~ dievas" is now identified as a borrowing from "Germanic_or_Finnic".
+For language 105, meaning 136, item "dievva" is now identified as a borrowing from "Germanic_or_Finnic".
+For language 106, meaning 136, item "tievas" is now identified as a borrowing from "Germanic_or_Finnic".
+For language 107, meaning 136, item "tiudd" is now identified as a borrowing from "Germanic_or_Finnic".
+For language 108, meaning 136, item "tievvt" is now identified as a borrowing from "Germanic_or_Finnic".
+For language 501, meaning 137, item "turun" is now identified as a borrowing from "Indo-Iranian_or_Iranian".
+For language 503, meaning 137, item "turun" is now identified as a borrowing from "Indo-Iranian_or_Iranian".
+For language 504, meaning 137, item "turi̮n" is now identified as a borrowing from "Indo-Iranian_or_Iranian".
+For language 203, meaning 138, item "vihreä" is now identified as a borrowing from "Indo-Iranian".
+For language 204, meaning 138, item "vihanta" is now identified as a borrowing from "Indo-Iranian".
+For language 207, meaning 138, item "viher" is now identified as a borrowing from "Indo-Iranian".
+For language 209, meaning 138, item "viher" is now identified as a borrowing from "Indo-Iranian".
+For language 212, meaning 138, item "ɔ̄lʹaz" is now identified as a borrowing from "Baltic".
+For language 401, meaning 138, item "užar, užarɣe" is now identified as a borrowing from "Indo-Iranian".
+For language 501, meaning 138, item "vež" is now identified as a borrowing from "Indo-Iranian".
+For language 504, meaning 138, item "vož" is now identified as a borrowing from "Indo-Iranian".
+For language 601, meaning 138, item "zöld", the borrowing source changed from Turkic to Iranian.
+For language 301, meaning 143, item "kiŕdʹems" is now identified as a borrowing from "Germanic".
+For language 601, meaning 143, item "tart" is now identified as a borrowing from "West Old Turkic".
+For language 401, meaning 144, item "mo semə̑n" is now identified as a borrowing from "Chuvash".
+For language 301, meaning 145, item "miŕdʹe" is now identified as a borrowing from "Indo-Iranian_or_Indo-European".
+For language 401, meaning 145, item "marij" is now identified as a borrowing from "Indo-Iranian_or_Iranian".
+For language 501, meaning 145, item "vere̮s" is now identified as a borrowing from "Indo-Iranian".
+For language 701, meaning 148, item "tūr" is now identified as a borrowing from "Indo-Iranian".
+For language 301, meaning 149, item "lopa" is now identified as a borrowing from "Baltic".
+For language 203, meaning 150, item "maata" is now identified as a borrowing from "Germanic".
+For language 207, meaning 150, item "magata" is now identified as a borrowing from "Germanic".
+For language 209, meaning 150, item "lamama" is now identified as a borrowing from "Germanic".
+For language 210, meaning 150, item "lamada" is now identified as a borrowing from "Germanic".
+For language 211, meaning 150, item "lammõma" is now identified as a borrowing from "Germanic".
+For language 212, meaning 150, item "maʾggə ~ magàtə" is now identified as a borrowing from "Germanic".
+For language 101, meaning 151, item "veasodh" is now identified as a borrowing from "Scandinavian".
+For language 102, meaning 151, item "viessoot" is now identified as a borrowing from "Scandinavian".
+For language 104, meaning 151, item "viessot" is now identified as a borrowing from "Scandinavian".
+For language 203, meaning 152, item "moni" is now identified as a borrowing from "Indo-European".
+For language 204, meaning 152, item "moni" is now identified as a borrowing from "Indo-European".
+For language 208, meaning 152, item "moni" is now identified as a borrowing from "Indo-European".
+For language 209, meaning 152, item "me̮ni" is now identified as a borrowing from "Indo-European".
+For language 210, meaning 152, item "paljud" is now identified as a borrowing from "Germanic".
+For language 212, meaning 152, item "mūnda" is now identified as a borrowing from "Indo-European".
+For language 401, meaning 152, item "jatə̑r", the borrowing source changed from Chuvash to Volga Bulgar Turkic.
+For language 301, meaning 154, item "ava", the borrowing source changed from Chuvash to Volga Bulgar Turkic.
+For language 204, meaning 156, item "kaita" is now identified as a borrowing from "Germanic".
+For language 207, meaning 156, item "kaid" is now identified as a borrowing from "Germanic".
+For language 208, meaning 156, item "kaiᴅa" is now identified as a borrowing from "Germanic".
+For language 210, meaning 156, item "kitsas" is now identified as a borrowing from "Germanic_or_Baltic".
+For language 211, meaning 156, item "kitsas" is now identified as a borrowing from "Germanic_or_Baltic".
+For language 212, meaning 156, item "ɔ̄ʾdəz" is now identified as a borrowing from "Baltic".
+For language 105, meaning 158, item "eará" is now identified as a borrowing from "Finnic".
+For language 301, meaning 158, item "lʹija" is now identified as a borrowing from "Baltic".
+For language 101, meaning 160, item "sigkedh" is now identified as a borrowing from "Scandinavian".
+For language 203, meaning 160, item "vetää" is now identified as a borrowing from "Proto-Indo-European".
+For language 204, meaning 160, item "veteä" is now identified as a borrowing from "Proto-Indo-European".
+For language 207, meaning 160, item "vedada" is now identified as a borrowing from "Proto-Indo-European".
+For language 208, meaning 160, item "vet̆tǟ" is now identified as a borrowing from "Proto-Indo-European".
+For language 209, meaning 160, item "vetämä" is now identified as a borrowing from "Proto-Indo-European".
+For language 210, meaning 160, item "vedada" is now identified as a borrowing from "Proto-Indo-European".
+For language 212, meaning 160, item "vi̯eʾddə" is now identified as a borrowing from "Proto-Indo-European".
+For language 501, meaning 160, item "ki̮ski̮ni̮" is now identified as a borrowing from "Western Uralic".
+For language 503, meaning 160, item "ki̮ski̮ni̮" is now identified as a borrowing from "Western Uralic".
+For language 504, meaning 160, item "ki̮ski̮ni̮" is now identified as a borrowing from "Western Uralic".
+For language 301, meaning 161, item "tulkadʹems" is now identified as a borrowing from "Russian".
+For language 504, meaning 161, item "dongi̮ni̮" is now identified as a borrowing from "Western Uralic".
+For language 210, meaning 162, item "parem" is now identified as a borrowing from "Indo-Iranian".
+For language 504, meaning 162, item "bur" is now identified as a borrowing from "Indo-Iranian".
+For language 907, meaning 162, item "tāt, tātəŋ" is now identified as a borrowing from "Yeniseian".
+For language 907, meaning 163, item "tāt, tātəŋ ?" is now identified as a borrowing from "Yeniseian".
+For language 101, meaning 165, item "joene", the borrowing source changed from Fin to Indo-Iranian.
+For language 101, meaning 167, item "knugkedh" is now identified as a borrowing from "Scandinavian".
+For language 106, meaning 167, item "fiärruđ" is now identified as a borrowing from "Finnic".
+For language 203, meaning 170, item "jyvä" is now identified as a borrowing from "Baltic".
+For language 209, meaning 170, item "jüvä" is now identified as a borrowing from "Baltic".
+For language 501, meaning 170, item "tuś" is now identified as a borrowing from "Volga Bulgar Turkic".
+For language 503, meaning 170, item "tuś" is now identified as a borrowing from "Volga Bulgar Turkic".
+For language 504, meaning 170, item "ti̮ś" is now identified as a borrowing from "Volga Bulgar Turkic".
+For language 204, meaning 173, item "pajattoa" is now identified as a borrowing from "Slavic".
+For language 203, meaning 175, item "taivas", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 204, meaning 175, item "taivas", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 207, meaning 175, item "taivaz", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 208, meaning 175, item "taivaz", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 209, meaning 175, item "taive̮z", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 210, meaning 175, item "taevas", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 211, meaning 175, item "taivas", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 212, meaning 175, item "tōvaz", the borrowing source changed from Indo-Eur to Indo-Iranian.
+For language 208, meaning 176, item "mammaᴅa, māᴅa" is now identified as a borrowing from "Germanic".
+For language 209, meaning 176, item "makkama" is now identified as a borrowing from "Germanic".
+For language 210, meaning 176, item "magada" is now identified as a borrowing from "Germanic".
+For language 211, meaning 176, item "magama ~ magahama" is now identified as a borrowing from "Germanic".
+For language 212, meaning 176, item "maʾggə ~ magàtə" is now identified as a borrowing from "Germanic".
+For language 601, meaning 178, item "sík" is now identified as a borrowing from "West Old Turkic".
+For language 601, meaning 178, item "sima" is now identified as a borrowing from "West Old Turkic".
+For language 807, meaning 178, item "welʹǝχ" is now identified as a borrowing from "Komi".
+For language 203, meaning 179, item "käärme" is now identified as a borrowing from "Baltic".
+For language 204, meaning 179, item "keärmis" is now identified as a borrowing from "Baltic".
+For language 204, meaning 179, item "mato" is now identified as a borrowing from "Iranian".
+For language 207, meaning 179, item "mado" is now identified as a borrowing from "Iranian".
+For language 208, meaning 179, item "maᴅo" is now identified as a borrowing from "Iranian".
+For language 209, meaning 179, item "mato" is now identified as a borrowing from "Iranian".
+For language 210, meaning 179, item "uss" is now identified as a borrowing from "Slavic".
+For language 212, meaning 179, item "ùiska ~ ūśka" is now identified as a borrowing from "Slavic".
+For language 104, meaning 184, item "såbbe", the borrowing source changed from Scand to Proto-Indo-European.
+For language 105, meaning 184, item "soabbi", the borrowing source changed from Scand to Proto-Indo-European.
+For language 106, meaning 184, item "soab'bi", the borrowing source changed from Scand to Proto-Indo-European.
+For language 107, meaning 184, item "suäʹbˈb", the borrowing source changed from Scand to Proto-Indo-European.
+For language 203, meaning 184, item "keppi" is now identified as a borrowing from "Swedish".
+For language 204, meaning 184, item "keppi" is now identified as a borrowing from "Swedish".
+For language 208, meaning 184, item "keppi" is now identified as a borrowing from "Swedish".
+For language 209, meaning 184, item "kʹeppi" is now identified as a borrowing from "Swedish".
+For language 210, meaning 184, item "kepp" is now identified as a borrowing from "Swedish".
+For language 211, meaning 184, item "kepp'" is now identified as a borrowing from "Swedish".
+For language 211, meaning 184, item "vääs" is now identified as a borrowing from "Latvian".
+For language 212, meaning 184, item "kàikka" is now identified as a borrowing from "Estonian".
+For language 601, meaning 184, item "bot" is now identified as a borrowing from "West Old Turkic".
+For language 601, meaning 184, item "pálca" is now identified as a borrowing from "Slavic".
+For language 203, meaning 185, item "suora" is now identified as a borrowing from "Germanic".
+For language 204, meaning 185, item "suora" is now identified as a borrowing from "Germanic".
+For language 208, meaning 185, item "sōra" is now identified as a borrowing from "Germanic".
+For language 907, meaning 185, item "tāt ~ tātəŋ" is now identified as a borrowing from "Yeniseian".
+For language 807, meaning 186, item "süŋk" is now identified as a borrowing from "Tungusic".
+For language 208, meaning 187, item "paisua" is now identified as a borrowing from "Germanic".
+For language 209, meaning 187, item "paize̮ttuma" is now identified as a borrowing from "Germanic".
+For language 210, meaning 187, item "paisuda" is now identified as a borrowing from "Germanic".
+For language 211, meaning 187, item "paisuma" is now identified as a borrowing from "Germanic".
+For language 212, meaning 187, item "paìzə" is now identified as a borrowing from "Germanic".
+For language 208, meaning 191, item "hēno" is now identified as a borrowing from "Finnish".
+For language 209, meaning 191, item "лaih" is now identified as a borrowing from "Baltic".
+For language 208, meaning 192, item "meinaᴅa" is now identified as a borrowing from "Finnish".
+For language 210, meaning 192, item "mõ(t)elda" is now identified as a borrowing from "Germanic".
+For language 211, meaning 192, item "mõtlõma" is now identified as a borrowing from "Germanic".
+For language 212, meaning 192, item "mē̮tlə" is now identified as a borrowing from "Germanic".
+For language 203, meaning 194, item "heittää" is now identified as a borrowing from "Germanic".
+For language 208, meaning 194, item "heittǟ" is now identified as a borrowing from "Germanic".
+For language 209, meaning 194, item "heittemä" is now identified as a borrowing from "Germanic".
+For language 210, meaning 194, item "heita" is now identified as a borrowing from "Germanic".
+For language 211, meaning 194, item "hiitmä" is now identified as a borrowing from "Germanic".
+For language 212, meaning 194, item "eìttə" is now identified as a borrowing from "Germanic".
+For language 601, meaning 197, item "hány", the borrowing source changed from Indo-Eur to Iranian.
+For language 208, meaning 199, item "sōja" is now identified as a borrowing from "Iranian".
+For language 209, meaning 199, item "sōje̮" is now identified as a borrowing from "Iranian".
+For language 210, meaning 199, item "soe" is now identified as a borrowing from "Iranian".
+For language 211, meaning 200, item "mõskma" is now identified as a borrowing from "Proto-Indo-European".
+For language 401, meaning 200, item "muškam" is now identified as a borrowing from "Proto-Indo-European".
+For language 501, meaning 200, item "mi̮śki̮ni̮" is now identified as a borrowing from "Proto-Indo-European".
+For language 503, meaning 200, item "miśśi̮ni̮, miśśe̮tni̮" is now identified as a borrowing from "Proto-Indo-European".
+For language 504, meaning 200, item "miśki̮ni̮" is now identified as a borrowing from "Proto-Indo-European".
+For language 601, meaning 200, item "mos" is now identified as a borrowing from "Proto-Indo-European".
+For language 907, meaning 200, item "mūsəlčə- ~ müsəlčə-" is now identified as a borrowing from "Proto-Indo-European".
+For language 203, meaning 202, item "märkä" is now identified as a borrowing from "Baltic".
+For language 204, meaning 202, item "märkä" is now identified as a borrowing from "Baltic".
+For language 207, meaning 202, item "märg" is now identified as a borrowing from "Baltic".
+For language 208, meaning 202, item "märɢä" is now identified as a borrowing from "Baltic".
+For language 209, meaning 202, item "märtš́" is now identified as a borrowing from "Baltic".
+For language 210, meaning 202, item "märg" is now identified as a borrowing from "Baltic".
+For language 301, meaning 205, item "ašo" is now identified as a borrowing from "Tatar".
+For language 212, meaning 206, item "pūʾstə" is now identified as a borrowing from "Proto-Indo-European".
+For language 203, meaning 208, item "nainen" is now identified as a borrowing from "Proto-Indo-European".
+For language 204, meaning 208, item "naine" is now identified as a borrowing from "Proto-Indo-European".
+For language 207, meaning 208, item "naine" is now identified as a borrowing from "Proto-Indo-European".
+For language 208, meaning 208, item "nain" is now identified as a borrowing from "Proto-Indo-European".
+For language 209, meaning 208, item "nain" is now identified as a borrowing from "Proto-Indo-European".
+For language 210, meaning 208, item "naine" is now identified as a borrowing from "Proto-Indo-European".
+For language 211, meaning 208, item "naanõ" is now identified as a borrowing from "Proto-Indo-European".
+For language 212, meaning 208, item "naì" is now identified as a borrowing from "Proto-Indo-European".
+For language 301, meaning 208, item "ava", the borrowing source changed from Chuvash to Volga Bulgar Turkic.
+For language 601, meaning 208, item "asszony" is now identified as a borrowing from "Iranian".
+For language 301, meaning 209, item "viŕ" is now identified as a borrowing from "Baltic".
+For language 203, meaning 210, item "mato", the borrowing source changed from Ger to Iranian.
+For language 204, meaning 210, item "mato(ine)", the borrowing source changed from Ger to Iranian.
+For language 207, meaning 210, item "mado", the borrowing source changed from Ger to Iranian.
+For language 208, meaning 210, item "maᴅo", the borrowing source changed from Ger to Iranian.
+For language 210, meaning 210, item "uss" is now identified as a borrowing from "Slavic".
+For language 211, meaning 210, item "huss'" is now identified as a borrowing from "Slavic".
+For language 105, meaning 211, item "jahki" is now identified as a borrowing from "Finnic".
+For language 301, meaning 211, item "ije" is now identified as a borrowing from "Proto-Indo-European".
+For language 401, meaning 211, item "ij" is now identified as a borrowing from "Proto-Indo-European".
+For language 601, meaning 211, item "év" is now identified as a borrowing from "Indo-Iranian".
+For language 807, meaning 211, item "al" is now identified as a borrowing from "Permic".
+For language 212, meaning 212, item "vīʾri" is now identified as a borrowing from "Indo-Iranian_or_Iranian".
+For language 501, meaning 212, item "viž" is now identified as a borrowing from "Indo-Iranian_or_Iranian".
+For language 503, meaning 212, item "vež" is now identified as a borrowing from "Indo-Iranian_or_Iranian".
+For language 104, meaning 214, item "luptit" is now identified as a borrowing from "Germanic".
+For language 105, meaning 214, item "loktet" is now identified as a borrowing from "Germanic".
+For language 106, meaning 214, item "luptiđ" is now identified as a borrowing from "Germanic".
+For language 501, meaning 215, item "saje̮" is now identified as a borrowing from "Iranian".
+For language 503, meaning 215, item "saji̮n" is now identified as a borrowing from "Iranian".
+For language 701, meaning 215, item "sājt" is now identified as a borrowing from "Komi".
+For language 204, meaning 218, item "leikata" is now identified as a borrowing from "Germanic".
+For language 209, meaning 218, item "лe̮ikkama" is now identified as a borrowing from "Germanic".
+For language 210, meaning 218, item "raiuda" is now identified as a borrowing from "Germanic".
+For language 211, meaning 218, item "ragoma" is now identified as a borrowing from "Germanic".
+For language 601, meaning 219, item "tíz", the borrowing source changed from Indo-Ir to Iranian.
+For language 807, meaning 219, item "jɔ̈ŋ" is now identified as a borrowing from "Tungusic".
+For language 601, meaning 220, item "szúnyog" is now identified as a borrowing from "West Old Turkic".
+For language 203, meaning 222, item "ansa" is now identified as a borrowing from "Baltic".
+For language 204, meaning 222, item "ansa" is now identified as a borrowing from "Baltic".
+For language 212, meaning 222, item "lamàtəks" is now identified as a borrowing from "Latvian".
+For language 401, meaning 222, item "löδö" is now identified as a borrowing from "Germanic".
+For language 203, meaning 223, item "sytyttää" is now identified as a borrowing from "Iranian".
+For language 204, meaning 223, item "sytytteä" is now identified as a borrowing from "Iranian".
+For language 207, meaning 223, item "sütutada" is now identified as a borrowing from "Iranian".
+For language 208, meaning 223, item "süᴅüttǟ" is now identified as a borrowing from "Iranian".
+For language 209, meaning 223, item "süttemä" is now identified as a borrowing from "Iranian".
+For language 210, meaning 223, item "süüdata" is now identified as a borrowing from "Iranian".
+For language 601, meaning 224, item "sós" is now identified as a borrowing from "Indo-European".
+For language 907, meaning 224, item "śāq", the borrowing source changed from Iranic to Iranian.
+For language 203, meaning 225, item "laho" is now identified as a borrowing from "Scandinavian".
+For language 204, meaning 225, item "laho" is now identified as a borrowing from "Scandinavian".
+For language 207, meaning 225, item "laho" is now identified as a borrowing from "Scandinavian".
+For language 208, meaning 225, item "laho" is now identified as a borrowing from "Scandinavian".
+For language 209, meaning 225, item "лaho" is now identified as a borrowing from "Scandinavian".
+For language 203, meaning 227, item "keitetty" is now identified as a borrowing from "Germanic".
+For language 204, meaning 227, item "keitteä" is now identified as a borrowing from "Germanic".
+For language 207, meaning 227, item "keittud" is now identified as a borrowing from "Germanic".
+For language 208, meaning 227, item "keiᴅettü" is now identified as a borrowing from "Germanic".
+For language 210, meaning 227, item "keedetud" is now identified as a borrowing from "Germanic".
+For language 211, meaning 227, item "keededüq" is now identified as a borrowing from "Germanic".
+For language 212, meaning 227, item "kìetə" is now identified as a borrowing from "Germanic".
+For language 301, meaning 227, item "pidʹeź" is now identified as a borrowing from "Proto-Indo-European".
+For language 501, meaning 227, item "puni̮" is now identified as a borrowing from "Proto-Indo-European".
+For language 503, meaning 227, item "pue̮m" is now identified as a borrowing from "Proto-Indo-European".
+For language 601, meaning 227, item "főtt" is now identified as a borrowing from "Proto-Indo-European".
+For language 701, meaning 227, item "pājti" is now identified as a borrowing from "Proto-Indo-European".
+For language 601, meaning 228, item "szó" is now identified as a borrowing from "West Old Turkic_or_Iranian".
+For language 210, meaning 229, item "korp" is now identified as a borrowing from "Low German".
+For language 401, meaning 230, item "poɣem" is now identified as a borrowing from "Chuvash".
+For language 101, meaning 231, item "riepie" is now identified as a borrowing from "Finnic".
+For language 102, meaning 231, item "riebiei" is now identified as a borrowing from "Finnic".
+For language 104, meaning 231, item "rebe" is now identified as a borrowing from "Finnic".
+For language 105, meaning 231, item "rieban" is now identified as a borrowing from "Finnic".
+For language 106, meaning 231, item "riemnjis" is now identified as a borrowing from "Finnic".
+For language 107, meaning 231, item "riʹmjj ~ rieʹmnnj" is now identified as a borrowing from "Finnic".
+For language 108, meaning 231, item "rīmm’n" is now identified as a borrowing from "Finnic".
+For language 204, meaning 231, item "repo ~ repoi" is now identified as a borrowing from "Indo-Iranian".
+For language 207, meaning 231, item "reboi" is now identified as a borrowing from "Indo-Iranian".
+For language 208, meaning 231, item "reʙoi" is now identified as a borrowing from "Indo-Iranian".
+For language 209, meaning 231, item "repo" is now identified as a borrowing from "Indo-Iranian".
+For language 210, meaning 231, item "rebane" is now identified as a borrowing from "Indo-Iranian".
+For language 211, meaning 231, item "repän'" is now identified as a borrowing from "Indo-Iranian".
+For language 212, meaning 231, item "reʾbbi" is now identified as a borrowing from "Indo-Iranian".
+For language 301, meaning 231, item "ŕiveź" is now identified as a borrowing from "Indo-Iranian".
+For language 401, meaning 231, item "rə̑βə̑ž" is now identified as a borrowing from "Indo-Iranian".
+For language 501, meaning 231, item "ruć" is now identified as a borrowing from "Indo-Iranian".
+For language 503, meaning 231, item "ruć" is now identified as a borrowing from "Indo-Iranian".
+For language 504, meaning 231, item "ʒ́i̮ći̮" is now identified as a borrowing from "Indo-Iranian".
+For language 601, meaning 231, item "róka" is now identified as a borrowing from "Iranian".
+For language 203, meaning 232, item "vääntää" is now identified as a borrowing from "Germanic".
+For language 210, meaning 232, item "väänata" is now identified as a borrowing from "Germanic".
+For language 401, meaning 232, item "pütə̑rem" is now identified as a borrowing from "Tatar".
+For language 401, meaning 232, item "saβə̑rem" is now identified as a borrowing from "Chuvash".
+For language 601, meaning 232, item "csavar" is now identified as a borrowing from "West Old Turkic".
+For language 601, meaning 232, item "teker" is now identified as a borrowing from "West Old Turkic".
+For language 104, meaning 233, item "basset" is now identified as a borrowing from "Proto-Indo-European".
+For language 105, meaning 233, item "bassit" is now identified as a borrowing from "Proto-Indo-European".
+For language 106, meaning 233, item "passeeđ" is now identified as a borrowing from "Proto-Indo-European".
+For language 203, meaning 233, item "leipoa" is now identified as a borrowing from "Germanic".
+For language 203, meaning 233, item "paistaa" is now identified as a borrowing from "Germanic".
+For language 204, meaning 233, item "paistoa" is now identified as a borrowing from "Germanic".
+For language 207, meaning 233, item "pašta ~ paštta" is now identified as a borrowing from "Germanic".
+For language 208, meaning 233, item "paistā" is now identified as a borrowing from "Germanic".
+For language 501, meaning 233, item "pe̮ẓ̌avni̮" is now identified as a borrowing from "Indo-Iranian".
+For language 503, meaning 233, item "pe̮žavni̮" is now identified as a borrowing from "Indo-Iranian".
+For language 504, meaning 233, item "pi̮ži̮ni̮" is now identified as a borrowing from "Indo-Iranian".
+For language 701, meaning 233, item "sāriti" is now identified as a borrowing from "Russian".
+For language 401, meaning 234, item "poɣem" is now identified as a borrowing from "Chuvash".
+For language 301, meaning 236, item "tujems" is now identified as a borrowing from "Indo-European".
+For language 601, meaning 238, item "érint, megérint" is now identified as a borrowing from "West Old Turkic".
+For language 203, meaning 240, item "ihminen" is now identified as a borrowing from "Proto-Indo-European".
+For language 204, meaning 240, item "imehnine ~ inehmine" is now identified as a borrowing from "Proto-Indo-European".
+For language 207, meaning 240, item "ińehmoi" is now identified as a borrowing from "Proto-Indo-European".
+For language 208, meaning 240, item "ihmīn ~ inmīn ~ inhimin" is now identified as a borrowing from "Proto-Indo-European".
+For language 209, meaning 240, item "inimin" is now identified as a borrowing from "Proto-Indo-European".
+For language 210, meaning 240, item "inimene" is now identified as a borrowing from "Proto-Indo-European".
+For language 211, meaning 240, item "inemine" is now identified as a borrowing from "Proto-Indo-European".
+For language 301, meaning 240, item "lomań" is now identified as a borrowing from "Iranian".
+For language 102, meaning 242, item "muohtoo" is now identified as a borrowing from "Finnic".
+For language 104, meaning 242, item "muohto" is now identified as a borrowing from "Finnic".
+For language 105, meaning 242, item "muođut" is now identified as a borrowing from "Finnic".
+For language 106, meaning 242, item "muáđuh" is now identified as a borrowing from "Finnic".
+For language 107, meaning 242, item "muâđ" is now identified as a borrowing from "Finnic".
+For language 108, meaning 242, item "kāssv", the borrowing source changed from Fin to Karelian.
+For language 212, meaning 242, item "palg" is now identified as a borrowing from "Germanic".
+For language 401, meaning 242, item "čurij" is now identified as a borrowing from "Tatar".
+For language 504, meaning 242, item "bam", the borrowing source changed from Chuvash to Volga Bulgar Turkic.
+For language 101, meaning 243, item "baaltese" is now identified as a borrowing from "Finnic".
+For language 102, meaning 243, item "baaldasna" is now identified as a borrowing from "Finnic".
+For language 104, meaning 243, item "balldalugguj, báldast" is now identified as a borrowing from "Finnic".
+For language 105, meaning 243, item "bálddas" is now identified as a borrowing from "Finnic".
+For language 106, meaning 243, item "paaldast" is now identified as a borrowing from "Finnic".
+For language 107, meaning 243, item "paaldâst" is now identified as a borrowing from "Finnic".
+For language 203, meaning 244, item "lainata", the borrowing source changed from Scand to Germanic.
+For language 204, meaning 244, item "antoa laihinah", the borrowing source changed from Scand to Germanic.
+For language 210, meaning 244, item "laenata, laenu anda", the borrowing source changed from Scand to Germanic.
+For language 211, meaning 244, item "lainama", the borrowing source changed from Scand to Germanic.
+For language 212, meaning 244, item "laìnə", the borrowing source changed from Scand to Germanic.
+For language 601, meaning 244, item "kölcsönöz, kölcsönad" is now identified as a borrowing from "West Old Turkic".
+For language 203, meaning 245, item "hirssi" is now identified as a borrowing from "Swedish".
+For language 210, meaning 245, item "hirss" is now identified as a borrowing from "German".
+For language 211, meaning 245, item "hirss'" is now identified as a borrowing from "German".
+For language 401, meaning 245, item "tar" is now identified as a borrowing from "Tatar".
+For language 203, meaning 246, item "pian" is now identified as a borrowing from "Germanic".
+For language 207, meaning 246, item "pigai" is now identified as a borrowing from "Germanic".
+For language 210, meaning 246, item "pea(gi)" is now identified as a borrowing from "Germanic".
+For language 211, meaning 246, item "pia" is now identified as a borrowing from "Germanic".
+For language 212, meaning 246, item "pigà" is now identified as a borrowing from "Germanic".
+For language 401, meaning 246, item "βaške" is now identified as a borrowing from "Chuvash".
+For language 807, meaning 246, item "ǝsipɜ" is now identified as a borrowing from "Tungusic".
+For language 601, meaning 247, item "pók" is now identified as a borrowing from "Slavic".
+For language 107, meaning 248, item "dooidâd" is now identified as a borrowing from "Russian".
+For language 601, meaning 248, item "megérkezik" is now identified as a borrowing from "West Old Turkic".
+For language 105, meaning 249, item "bovret ~ bōret" is now identified as a borrowing from "Scandinavian".
+For language 203, meaning 249, item "porata" is now identified as a borrowing from "Swedish".
+For language 401, meaning 249, item "šütem" is now identified as a borrowing from "Tatar".
+For language 503, meaning 249, item "pi̮re̮tni̮" is now identified as a borrowing from "Proto-Indo-European".
+For language 601, meaning 249, item "fúr" is now identified as a borrowing from "Proto-Indo-European".
+For language 701, meaning 249, item "pāsɣi" is now identified as a borrowing from "Komi".
+For language 208, meaning 250, item "nain, naizikko" is now identified as a borrowing from "Proto-Indo-European".
+For language 209, meaning 250, item "nain" is now identified as a borrowing from "Proto-Indo-European".
+For language 210, meaning 250, item "naine" is now identified as a borrowing from "Proto-Indo-European".
+For language 211, meaning 250, item "naanõ" is now identified as a borrowing from "Proto-Indo-European".
+For language 212, meaning 250, item "naì" is now identified as a borrowing from "Proto-Indo-European".
+For language 501, meaning 250, item "ge̮ti̮r" is now identified as a borrowing from "Germanic".
+For language 807, meaning 250, item "ni" is now identified as a borrowing from "Proto-Indo-European".
+For language 401, meaning 251, item "petə̑rem" is now identified as a borrowing from "Chuvash".
+For language 601, meaning 251, item "bezár" is now identified as a borrowing from "Slavic".
+For language 203, meaning 252, item "kappale" is now identified as a borrowing from "Baltic".
+For language 204, meaning 252, item "kappaleh" is now identified as a borrowing from "Finnish".
+For language 209, meaning 252, item "tükkü", the borrowing source changed from Ger to Estonian.
+For language 212, meaning 252, item "kabàl" is now identified as a borrowing from "Baltic".
+For language 401, meaning 252, item "moklaka" is now identified as a borrowing from "Chuvash".
+For language 601, meaning 252, item "darab" is now identified as a borrowing from "Slavic".
+For language 301, meaning 253, item "ćora" is now identified as a borrowing from "Tatar".
+For language 401, meaning 253, item "marij" is now identified as a borrowing from "Indo-Iranian_or_Iranian".
+For language 401, meaning 253, item "pörjeŋ" is now identified as a borrowing from "Chuvash".
+For language 101, meaning 254, item "ajve" is now identified as a borrowing from "Finnic".
+For language 102, meaning 254, item "dàuhk" is now identified as a borrowing from "Scandinavian".
+For language 105, meaning 254, item "aivvẹ" is now identified as a borrowing from "Finnic".
+For language 105, meaning 254, item "duššẹ" is now identified as a borrowing from "Finnic".
+For language 106, meaning 254, item "tuš ~ tuše" is now identified as a borrowing from "Finnic".
+For language 106, meaning 254, item "váá" is now identified as a borrowing from "Finnic".
+For language 301, meaning 254, item "anśak" is now identified as a borrowing from "Tatar".
+For language 105, meaning 255, item "rieddjái" is now identified as a borrowing from "Finnic".
+For language 203, meaning 257, item "kanto" is now identified as a borrowing from "Indo-Iranian".
+For language 204, meaning 257, item "kanto" is now identified as a borrowing from "Indo-Iranian".
+For language 207, meaning 257, item "kand" is now identified as a borrowing from "Indo-Iranian".
+For language 208, meaning 257, item "kanᴅo" is now identified as a borrowing from "Indo-Iranian".
+For language 209, meaning 257, item "kanto" is now identified as a borrowing from "Indo-Iranian".
+For language 210, meaning 257, item "känd" is now identified as a borrowing from "Indo-Iranian".
+For language 211, meaning 257, item "kand" is now identified as a borrowing from "Indo-Iranian".
+For language 401, meaning 257, item "omarta" is now identified as a borrowing from "Tatar".
+For language 401, meaning 257, item "pundə̑š" is now identified as a borrowing from "Indo-Iranian".
+For language 108, meaning 258, item "kūll", the borrowing source changed from Scand to Norvegian.
+For language 301, meaning 258, item "al, alne" is now identified as a borrowing from "Baltic".
+For language 501, meaning 258, item "kolʹk" is now identified as a borrowing from "Finnic".
+For language 503, meaning 258, item "kolʹttez" is now identified as a borrowing from "Finnic".
+For language 204, meaning 260, item "virsi" is now identified as a borrowing from "Baltic".
+For language 207, meaning 260, item "pajo" is now identified as a borrowing from "Slavic".
+For language 301, meaning 260, item "moro" is now identified as a borrowing from "Indo-Iranian_or_Iranian".
+For language 401, meaning 260, item "muro" is now identified as a borrowing from "Indo-Iranian_or_Iranian".
+For language 701, meaning 260, item "ēriɣ" is now identified as a borrowing from "Iranian".
+For language 807, meaning 260, item "ärǝɣ" is now identified as a borrowing from "Iranian".
+For language 208, meaning 262, item "törɢäᴅä" is now identified as a borrowing from "Russian".
+For language 209, meaning 262, item "torkkama, törkkämä" is now identified as a borrowing from "Russian".
+For language 105, meaning 263, item "luoikkahit" is now identified as a borrowing from "Germanic".
+For language 106, meaning 263, item "luoi'hattiđ" is now identified as a borrowing from "Germanic".
+For language 107, meaning 263, item "luõikkâd" is now identified as a borrowing from "Germanic".
+For language 601, meaning 263, item "kölcsönöz, kölcsönvesz" is now identified as a borrowing from "West Old Turkic".
+For language 101, meaning 265, item "bissedh" is now identified as a borrowing from "Proto-Indo-European".
+For language 102, meaning 265, item "bisseet" is now identified as a borrowing from "Proto-Indo-European".
+For language 104, meaning 265, item "basset" is now identified as a borrowing from "Proto-Indo-European".
+For language 105, meaning 265, item "steiket" is now identified as a borrowing from "Scandinavian".
+For language 106, meaning 265, item "passeeđ" is now identified as a borrowing from "Proto-Indo-European".
+For language 203, meaning 265, item "paistaa" is now identified as a borrowing from "Germanic".
+For language 208, meaning 265, item "paistā" is now identified as a borrowing from "Germanic".
+For language 210, meaning 265, item "praadida", the borrowing source changed from Rus to Low German.
+For language 211, meaning 265, item "praat'ma", the borrowing source changed from Rus to Low German.
+For language 504, meaning 265, item "pi̮ži̮ni̮" is now identified as a borrowing from "Indo-Iranian".
+For language 401, meaning 266, item "čə̑βe" is now identified as a borrowing from "Chuvash".
+For language 501, meaning 266, item "ćipan", the borrowing source changed from Chuvash to Turkic.
+For language 501, meaning 266, item "kure̮g", the borrowing source changed from Iranic to Iranian.
+For language 503, meaning 266, item "kure̮g", the borrowing source changed from Iranic to Iranian.
+For language 504, meaning 266, item "kureg", the borrowing source changed from Iranic to Iranian.
+For language 601, meaning 266, item "tyúk" is now identified as a borrowing from "West Old Turkic".
+For language 204, meaning 267, item "roakku ~ roakka" is now identified as a borrowing from "Russian".
+For language 210, meaning 269, item "saada" is now identified as a borrowing from "Indo-Iranian".
+For language 211, meaning 269, item "saama" is now identified as a borrowing from "Indo-Iranian".
+For language 212, meaning 269, item "sɔ̄də" is now identified as a borrowing from "Indo-Iranian".
+For language 401, meaning 269, item "šuam" is now identified as a borrowing from "Indo-Iranian".
+For language 601, meaning 270, item "büdös" is now identified as a borrowing from "Iranian".
+For language 203, meaning 271, item "karhea, karkea" is now identified as a borrowing from "Germanic".
+For language 204, meaning 271, item "kartšakka" is now identified as a borrowing from "Germanic".
+For language 208, meaning 271, item "karhia" is now identified as a borrowing from "Germanic".
+For language 209, meaning 271, item "karma" is now identified as a borrowing from "Germanic".
+For language 210, meaning 271, item "kare" is now identified as a borrowing from "Germanic".
+For language 211, meaning 271, item "kahrõq, korrõ" is now identified as a borrowing from "Germanic".
+For language 212, meaning 271, item "kaʾrdə" is now identified as a borrowing from "Germanic".
+For language 105, meaning 272, item "šluvgit" is now identified as a borrowing from "Scandinavian".
+For language 204, meaning 272, item "puistoa" is now identified as a borrowing from "Indo-European".
+For language 207, meaning 272, item "pudištada" is now identified as a borrowing from "Indo-European".
+For language 208, meaning 272, item "puissella" is now identified as a borrowing from "Indo-European".
+For language 209, meaning 272, item "puisse̮ma" is now identified as a borrowing from "Indo-European".
+For language 401, meaning 272, item "čə̑tə̑rə̑ktem" is now identified as a borrowing from "Chuvash".
+For language 401, meaning 273, item "er" is now identified as a borrowing from "Chuvash".
+For language 203, meaning 274, item "puhdas" is now identified as a borrowing from "Proto-Indo-European".
+For language 204, meaning 274, item "puhas" is now identified as a borrowing from "Proto-Indo-European".
+For language 207, meaning 274, item "puhtaz" is now identified as a borrowing from "Proto-Indo-European".
+For language 208, meaning 274, item "puhaz" is now identified as a borrowing from "Proto-Indo-European".
+For language 209, meaning 274, item "puhas" is now identified as a borrowing from "Proto-Indo-European".
+For language 210, meaning 274, item "puhas" is now identified as a borrowing from "Proto-Indo-European".
+For language 211, meaning 274, item "puhas" is now identified as a borrowing from "Proto-Indo-European".
+For language 212, meaning 274, item "pūʾdəz" is now identified as a borrowing from "Proto-Indo-European".
+For language 401, meaning 274, item "aru" is now identified as a borrowing from "Tatar".
+For language 601, meaning 274, item "tiszta", the borrowing source changed from Rus to Slavic.
+For language 203, meaning 276, item "kuuro" is now identified as a borrowing from "Baltic".
+For language 204, meaning 276, item "kuurnis" is now identified as a borrowing from "Baltic".
+For language 207, meaning 276, item "kurdeh" is now identified as a borrowing from "Baltic".
+For language 210, meaning 276, item "kurt" is now identified as a borrowing from "Baltic".
+For language 211, meaning 276, item "kurt'" is now identified as a borrowing from "Baltic".
+For language 212, meaning 276, item "kurrli ~ kūrli" is now identified as a borrowing from "Baltic".
+For language 401, meaning 276, item "čokrak" is now identified as a borrowing from "Tatar".
+For language 401, meaning 276, item "soŋgə̑ra" is now identified as a borrowing from "Tatar".
+For language 101, meaning 278, item "aareh, aarehke" is now identified as a borrowing from "Scandinavian".
+For language 104, meaning 278, item "árabut" is now identified as a borrowing from "Scandinavian".
+For language 105, meaning 278, item "árrat" is now identified as a borrowing from "Scandinavian".
+For language 106, meaning 278, item "aarrad" is now identified as a borrowing from "Scandinavian".
+For language 209, meaning 278, item "varai" is now identified as a borrowing from "Baltic".
+For language 210, meaning 278, item "vara" is now identified as a borrowing from "Baltic".
+For language 211, meaning 278, item "varra" is now identified as a borrowing from "Baltic".
+For language 212, meaning 278, item "vaʾrrə" is now identified as a borrowing from "Baltic".
+For language 301, meaning 278, item "rana" is now identified as a borrowing from "Russian".
+For language 401, meaning 278, item "er, erak" is now identified as a borrowing from "Chuvash".
+For language 601, meaning 278, item "korán" is now identified as a borrowing from "West Old Turkic".
+For language 105, meaning 279, item "oabbá" is now identified as a borrowing from "Indo-Iranian".
+For language 204, meaning 279, item "sisär" is now identified as a borrowing from "Baltic".
+For language 207, meaning 279, item "sizar" is now identified as a borrowing from "Baltic".
+For language 208, meaning 279, item "siar ~ sizar" is now identified as a borrowing from "Baltic".
+For language 209, meaning 279, item "se̮sar" is now identified as a borrowing from "Baltic".
+For language 210, meaning 279, item "sõsar" is now identified as a borrowing from "Baltic".
+For language 212, meaning 279, item "se̮zàr ~ sizàr" is now identified as a borrowing from "Baltic".
+For language 301, meaning 279, item "sazor" is now identified as a borrowing from "Indo-Iranian".
+For language 401, meaning 279, item "aka" is now identified as a borrowing from "Chuvash".
+For language 401, meaning 279, item "šüžar" is now identified as a borrowing from "Indo-Iranian".
+For language 501, meaning 279, item "ćoi" is now identified as a borrowing from "Indo-Iranian".
+For language 503, meaning 279, item "soj" is now identified as a borrowing from "Indo-Iranian".
+For language 504, meaning 279, item "aki̮" is now identified as a borrowing from "Volga Bulgar Turkic".
+For language 504, meaning 279, item "apai" is now identified as a borrowing from "Tatar".
+For language 504, meaning 279, item "suzer" is now identified as a borrowing from "Indo-Iranian".
+For language 210, meaning 280, item "ting" is now identified as a borrowing from "Latvian".
+For language 211, meaning 280, item "ting" is now identified as a borrowing from "Latvian".
+For language 212, meaning 281, item "laìd" is now identified as a borrowing from "Baltic".
+For language 601, meaning 281, item "sekély" is now identified as a borrowing from "West Old Turkic".
+For language 104, meaning 282, item "lávgudit ~ lávvgot" is now identified as a borrowing from "Scandinavian".
+For language 105, meaning 282, item "lávggodit" is now identified as a borrowing from "Scandinavian".
+For language 106, meaning 282, item "lávguđ" is now identified as a borrowing from "Scandinavian".
+For language 107, meaning 282, item "lääuǥõõttäd ~ laauǥõõttâd, läuggad" is now identified as a borrowing from "Scandinavian".
+For language 301, meaning 282, item "paŕams" is now identified as a borrowing from "Russian".
+For language 401, meaning 282, item "muškə̑ltam" is now identified as a borrowing from "Proto-Indo-European".
+For language 503, meaning 282, item "miśśi̮ni̮" is now identified as a borrowing from "Proto-Indo-European".
+For language 101, meaning 283, item "giesie" is now identified as a borrowing from "North-Western-Indo-European".
+For language 102, meaning 283, item "giessee" is now identified as a borrowing from "North-Western-Indo-European".
+For language 104, meaning 283, item "giesse" is now identified as a borrowing from "North-Western-Indo-European".
+For language 105, meaning 283, item "geassi" is now identified as a borrowing from "North-Western-Indo-European".
+For language 106, meaning 283, item "keesi" is now identified as a borrowing from "North-Western-Indo-European".
+For language 107, meaning 283, item "ǩiẹʹss" is now identified as a borrowing from "North-Western-Indo-European".
+For language 108, meaning 283, item "kiess’" is now identified as a borrowing from "North-Western-Indo-European".
+For language 204, meaning 283, item "kesä" is now identified as a borrowing from "North-Western-Indo-European".
+For language 207, meaning 283, item "keza" is now identified as a borrowing from "North-Western-Indo-European".
+For language 208, meaning 283, item "kezä" is now identified as a borrowing from "North-Western-Indo-European".
+For language 209, meaning 283, item "tšesä" is now identified as a borrowing from "North-Western-Indo-European".
+For language 301, meaning 283, item "kize" is now identified as a borrowing from "North-Western-Indo-European".
+For language 203, meaning 284, item "nuuhkia", the borrowing source changed from Rus to Germanic.
+For language 204, meaning 284, item "nuuhkie, nuuhella", the borrowing source changed from Rus to Germanic.
+For language 208, meaning 284, item "nūhella ~ nūhkia", the borrowing source changed from Rus to Germanic.
+For language 210, meaning 284, item "nuuskida, nuusutada" is now identified as a borrowing from "Germanic".
+For language 211, meaning 284, item "nuhk'ma", the borrowing source changed from Rus to Germanic.
+For language 105, meaning 285, item "náhkkẹsoadji" is now identified as a borrowing from "Finnic".
+For language 301, meaning 286, item "nućka" is now identified as a borrowing from "Russian".
+For language 907, meaning 287, item "ūlqo" is now identified as a borrowing from "Yeniseian".
+For language 101, meaning 288, item "såemies", the borrowing source changed from Scand to Indo-Iranian_or_Indo-European.
+For language 102, meaning 288, item "sååmès", the borrowing source changed from Scand to Indo-Iranian_or_Indo-European.
+For language 104, meaning 288, item "såmes", the borrowing source changed from Scand to Indo-Iranian_or_Indo-European.
+For language 105, meaning 288, item "soamis", the borrowing source changed from Scand to Indo-Iranian_or_Indo-European.
+For language 301, meaning 288, item "ta-kodamo", the borrowing source changed from Chuvash to Turkic.
+For language 108, meaning 289, item "miehc’", the borrowing source changed from Fin to Baltic.
+For language 212, meaning 289, item "aʾijə" is now identified as a borrowing from "Indo-European".
+For language 203, meaning 290, item "tyttö" is now identified as a borrowing from "Baltic".
+For language 204, meaning 290, item "tyttö, tytär" is now identified as a borrowing from "Baltic".
+For language 208, meaning 290, item "tüttöĭ" is now identified as a borrowing from "Baltic".
+For language 209, meaning 290, item "tüttö" is now identified as a borrowing from "Baltic".
+For language 210, meaning 290, item "tütarlaps, tüdruk" is now identified as a borrowing from "Baltic".
+For language 211, meaning 290, item "tütrik, tütär'lats'" is now identified as a borrowing from "Baltic".
+For language 301, meaning 290, item "tʹejtʹeŕ, tʹejtʹeŕka" is now identified as a borrowing from "Baltic".
+For language 601, meaning 291, item "tompa" is now identified as a borrowing from "Slavic".
+For language 203, meaning 292, item "sammuttaa" is now identified as a borrowing from "Indo-Iranian".
+For language 204, meaning 292, item "sammuttoa" is now identified as a borrowing from "Indo-Iranian".
+For language 207, meaning 292, item "sambutada" is now identified as a borrowing from "Indo-Iranian".
+For language 208, meaning 292, item "sammuttā" is now identified as a borrowing from "Indo-Iranian".
+For language 209, meaning 292, item "sammutte̮ma" is now identified as a borrowing from "Indo-Iranian".
+For language 106, meaning 293, item "muli(j)diđ" is now identified as a borrowing from "Finnic".
+For language 107, meaning 293, item "muälted" is now identified as a borrowing from "Finnic".
+For language 203, meaning 295, item "lyhyt" is now identified as a borrowing from "Baltic".
+For language 204, meaning 295, item "lyhyt, lyhykkäine ~ lytšykkäine" is now identified as a borrowing from "Baltic".
+For language 207, meaning 295, item "lyhyd" is now identified as a borrowing from "Baltic".
+For language 208, meaning 295, item "lühüᴅ" is now identified as a borrowing from "Baltic".
+For language 209, meaning 295, item "lühüᴅ" is now identified as a borrowing from "Baltic".
+For language 210, meaning 295, item "lühike" is now identified as a borrowing from "Baltic".
+For language 211, meaning 295, item "lüh(ü)kene, lühüq ~ lühüt" is now identified as a borrowing from "Baltic".
+For language 212, meaning 295, item "līt" is now identified as a borrowing from "Baltic".
+For language 401, meaning 295, item "küčə̑k" is now identified as a borrowing from "Chuvash".
+For language 101, meaning 297, item "tjïrre" is now identified as a borrowing from "Indo-Iranian".
+For language 102, meaning 297, item "tjadda" is now identified as a borrowing from "Indo-Iranian".
+For language 104, meaning 297, item "tjádda ~ tjarra" is now identified as a borrowing from "Indo-Iranian".
+For language 106, meaning 297, item "čiđđa" is now identified as a borrowing from "Indo-Iranian".
+For language 504, meaning 297, item "egi̮r" is now identified as a borrowing from "Iranian".
+For language 101, meaning 302, item "tjahke" is now identified as a borrowing from "Unknown language".
+For language 104, meaning 302, item "tjåhkkå" is now identified as a borrowing from "Unknown language".
+For language 105, meaning 302, item "čohkka" is now identified as a borrowing from "Unknown language".
+For language 106, meaning 302, item "čokke ~ čukka" is now identified as a borrowing from "Unknown language".
+For language 107, meaning 302, item "čåʹǩǩ" is now identified as a borrowing from "Unknown language".
+For language 210, meaning 302, item "tipp" is now identified as a borrowing from "Low German".
+For language 211, meaning 302, item "tipp" is now identified as a borrowing from "Low German".
+For language 401, meaning 302, item "čoŋga" is now identified as a borrowing from "Iranian".
+For language 401, meaning 303, item "užašlem" is now identified as a borrowing from "Indo-European".
+For language 601, meaning 303, item "eloszt, feloszt" is now identified as a borrowing from "Indo-European".
+For language 301, meaning 304, item "kirdʹems" is now identified as a borrowing from "Germanic".
+For language 601, meaning 304, item "tart" is now identified as a borrowing from "West Old Turkic".
+For language 401, meaning 305, item "šüškem" is now identified as a borrowing from "Tatar".
+For language 401, meaning 306, item "ojə̑rem" is now identified as a borrowing from "Chuvash".
+For language 601, meaning 307, item "szarik" is now identified as a borrowing from "Indo-Iranian".
+For language 102, meaning 308, item "vaaibs" is now identified as a borrowing from "Finnic".
+For language 104, meaning 308, item "vájbas" is now identified as a borrowing from "Finnic".
+For language 105, meaning 308, item "váiban" is now identified as a borrowing from "Finnic".
+For language 106, meaning 308, item "vábadiđ" is now identified as a borrowing from "Finnic".
+For language 203, meaning 308, item "väsynyt" is now identified as a borrowing from "Germanic".
+For language 204, meaning 308, item "väsynyt" is now identified as a borrowing from "Germanic".
+For language 207, meaning 308, item "väzunu" is now identified as a borrowing from "Germanic".
+For language 208, meaning 308, item "väs̆sǖnᴅ" is now identified as a borrowing from "Germanic".
+For language 209, meaning 308, item "väsünnü" is now identified as a borrowing from "Germanic".
+For language 210, meaning 308, item "väsinud" is now identified as a borrowing from "Germanic".
+For language 203, meaning 309, item "likainen" is now identified as a borrowing from "Germanic".
+For language 204, meaning 309, item "likaine" is now identified as a borrowing from "Germanic".
+For language 207, meaning 309, item "pagan" is now identified as a borrowing from "Russian".
+For language 208, meaning 309, item "musta" is now identified as a borrowing from "Germanic".
+For language 210, meaning 309, item "must" is now identified as a borrowing from "Germanic".
+For language 211, meaning 309, item "must" is now identified as a borrowing from "Germanic".
+For language 212, meaning 309, item "muštà" is now identified as a borrowing from "Germanic".
+For language 301, meaning 309, item "rudazov" is now identified as a borrowing from "Baltic".
+For language 209, meaning 312, item "toлkku" is now identified as a borrowing from "Russian".
+For language 701, meaning 312, item "nomt" is now identified as a borrowing from "West Old Turkic".
