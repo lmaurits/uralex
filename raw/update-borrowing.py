@@ -2,6 +2,8 @@
 
 import csv
 
+# Load all the borrowings from master-clean.tsv
+
 borrowing_data = {}
 item_key_data = {}
 formcog_key_data = {}
@@ -28,7 +30,9 @@ with open("master-clean.tsv", "r") as fp:
         value = row["item"]
         formcog_key_data[formcog_key] = value
 
+print("Loaded {} borrowing values.".format(len(borrowing_data)))
 
+# Iterate over rows in Data.tsv looking for matches with our loaded borrowings
 updated_rows = []
 used_borrowing_keys = []
 audit = []
@@ -49,6 +53,7 @@ with open("Data.tsv", "r") as fp:
             # Strong match, just go for it
             replace = True
         elif item_key in item_key_data:
+            # Weak match, ask the human!
             old_form_set, old_cogn_set = item_key_data[item_key]
             while True:
                 print("Weak match on item {}:".format(row["item"]))
@@ -67,6 +72,7 @@ with open("Data.tsv", "r") as fp:
                 key[4] = old_cogn_set
                 key = tuple(key)
         elif formcog_key in formcog_key_data:
+            # Weak match, ask the human!
             old_item = formcog_key_data[formcog_key]
             while True:
                 print("Weak match on form {}, cognate {}:".format(row["form_set"], row["cogn_set"]))
@@ -82,6 +88,7 @@ with open("Data.tsv", "r") as fp:
                 key = list(key)
                 key[2] = old_item
                 key = tuple(key)
+
         if replace:
             replacements += 1
             used_borrowing_keys.append(key)
@@ -97,8 +104,9 @@ with open("Data.tsv", "r") as fp:
         updated_rows.append(row)
     fieldnames = reader.fieldnames
 
-print("Replaced {} borrowing values.".format(replacements))
+# Log what we did
 
+print("Replaced {} borrowing values.".format(replacements))
 with open("Data.tsv", "w") as fp:
     writer = csv.DictWriter(fp, fieldnames = fieldnames, delimiter="\t", quoting=csv.QUOTE_NONNUMERIC)
     writer.writeheader()
@@ -106,7 +114,6 @@ with open("Data.tsv", "w") as fp:
         writer.writerow(updated_row)
 
 print("{} of these need auditing (see audit.txt)".format(len(audit)))
-
 with open("audit.txt", "w") as fp:
     for row, new_source in audit:
         row["new_source"] = new_source
@@ -117,7 +124,6 @@ with open("audit.txt", "w") as fp:
 
 unused_keys = [k for k in borrowing_data.keys() if k not in used_borrowing_keys]
 print("{} borrowing values could not be matched (see unused.tsv)".format(len(unused_keys)))
-
 with open("unused.tsv", "w") as fp:
     writer = csv.writer(fp, delimiter="\t")
     fieldnames= ["lgid3", "mng_item", "item", "form_set", "cogn_set", "borr_qual", "borr_source"]
