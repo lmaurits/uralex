@@ -1,0 +1,6 @@
+For language 211, meaning 50, item "savv, sau" is now identified as a borrowing from "Germanic".
+For language 211, meaning 96, item "väiku, väikene" is now identified as a borrowing from "Germanic".
+For language 211, meaning 156, item "ahtagõnõ, ahas" is now identified as a borrowing from "Baltic".
+For language 104, meaning 211, item "jahke " is now identified as a borrowing from "Finnic".
+For language 211, meaning 279, item "sõsar'" is now identified as a borrowing from "Baltic".
+For language 211, meaning 308, item "väsünüq" is now identified as a borrowing from "Germanic".

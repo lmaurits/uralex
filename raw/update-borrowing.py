@@ -25,8 +25,9 @@ with open("master-clean.tsv", "r") as fp:
         item_key_data[item_key] = value
 
         formcog_key = tuple((row[k] for k in ("lgid3", "mng_item", "form_set", "cogn_set")))
-        value = tuple((row[k] for k in ("item",)))
-        formcog_key_data[item_key] = value
+        value = row["item"]
+        formcog_key_data[formcog_key] = value
+
 
 updated_rows = []
 used_borrowing_keys = []
