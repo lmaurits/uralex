@@ -70,6 +70,10 @@ class Dataset(BaseDataset):
         for concept in self.concepts:
             args.writer.add_concept(**concept)
 
+        args.writer.cldf.add_component("BorrowingTable")
+        args.writer.cldf.add_columns("BorrowingTable", "Source_Languoid", "Certainty")
+        borrowing_id = 1
+
         for (cid, cogid), ll in itertools.groupby(
             sorted(self._read("Data"), key=lambda i: (i["mng_item"], i["cogn_set"])),
             lambda i: (i["mng_item"], i["cogn_set"]),
@@ -105,3 +109,12 @@ class Dataset(BaseDataset):
                 for lex in args.writer.add_lexemes(**kw):
                     if cogid != "?":
                         args.writer.add_cognate(lexeme=lex, Cognateset_ID="{0}-{1}".format(cid, cogid))
+
+                    if lex["borr_source"]:
+                        args.writer.objects['BorrowingTable'].append(dict(
+                            ID=borrowing_id,
+                            Target_Form_ID=lex["ID"],
+                            Source_Languoid=lex["borr_source"],
+                            Certainty=lex["borr_qual"],
+                        ))
+                        borrowing_id += 1
